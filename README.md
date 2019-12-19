@@ -7,7 +7,8 @@ Sends a message every 24 hours to an Arduino. In our setup, this Arduino will th
 
 ## Installation
 
-- Simply clone this repo to your local machine using `https://github.com/OliviaLynn/Arduino-Trigger-Relay-Module.git`
+- Upload the Arduino sketch onto your Arduino 
+- Make sure to keep your Arduino connected to your computer to allow serial communication
 
 ### Running
 - Run from your shell:
